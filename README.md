@@ -108,10 +108,12 @@ Usted acepta indemnizar, defender y eximir de responsabilidad al Desarrollador d
 
 ---
 
-### Solicitud de Eliminación de Datos
-**DERECHO DEL USUARIO A LA ELIMINACIÓN:** Aunque GMT IVR Assistant procesa los datos de las transcripciones de llamadas de forma efímera (eliminándolos automáticamente en 30 minutos), los usuarios mantienen el derecho de solicitar la eliminación de cualquier metadato o identificador asociado.
+### Solicitud de Eliminación de Datos y Derechos de Privacidad
 
-Para solicitar la eliminación manual de cualquier dato asociado con su instalación:
+**SIN ALMACENAMIENTO PERSISTENTE:** GMT IVR Assistant está diseñado con una arquitectura de "Cero Conocimiento". Las transcripciones de llamadas se procesan de forma efímera directamente en la memoria y **nunca** se escriben en registros de servidores (logs) ni en bases de datos.
+
+**DERECHO DEL USUARIO A LA ELIMINACIÓN:** Aunque no almacenamos datos de conversaciones, respetamos su derecho al olvido. Puede solicitar la eliminación de cualquier metadato asociado (como identificadores de instalación, datos de analítica o informes de errores) contactándonos:
+
 * **Correo electrónico:** [psatechnologies@aol.com](mailto:psatechnologies@aol.com)
 * **Asunto:** Delete Data
-* **Información:** Incluya su ID de instalación único si está disponible, aunque la mayoría de las solicitudes se pueden procesar a través de su correo electrónico asociado de Google Play.
+* **Nota:** Incluya su ID de instalación único (disponible en la configuración de la aplicación) para ayudarnos a localizar sus metadatos anonimizados.
