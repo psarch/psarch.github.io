@@ -50,13 +50,13 @@ You agree to indemnify, defend, and hold harmless the Developer from and against
 
 ---
 
-### Data Deletion Request
-**USER RIGHT TO DELETION:** While GMT IVR Assistant processes call transcript data ephemerally (automatically deleting it within 30 minutes), users maintain the right to request the deletion of any associated metadata or identifiers.
+### Data Deletion & Privacy Rights
+**NO PERSISTENT STORAGE:** GMT IVR Assistant is designed with a "Zero-Knowledge" architecture. Call transcripts are processed ephemerally in-memory and are **never** written to server logs or databases. 
 
-To request a manual deletion of any data associated with your installation:
+**USER RIGHT TO DELETION:** While we do not store conversational data, we respect your right to be forgotten. You may request the deletion of any associated metadata (such as installation identifiers or crash reports) by contacting us:
 * **Email:** [psatechnologies@aol.com](mailto:psatechnologies@aol.com)
 * **Subject:** Delete Data
-* **Information:** Please include your unique Installation ID if available, though most requests can be processed via your associated Google Play email.
+* **Note:** Please include your Installation ID (found in App Settings) to help us locate your anonymized metadata.
 
 ---
 
