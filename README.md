@@ -50,6 +50,16 @@ You agree to indemnify, defend, and hold harmless the Developer from and against
 
 ---
 
+### Data Deletion Request
+**USER RIGHT TO DELETION:** While GMT IVR Assistant processes call transcript data ephemerally (automatically deleting it within 30 minutes), users maintain the right to request the deletion of any associated metadata or identifiers.
+
+To request a manual deletion of any data associated with your installation:
+* **Email:** [psatechnologies@aol.com](mailto:psatechnologies@aol.com)
+* **Subject:** Delete Data
+* **Information:** Please include your unique Installation ID if available, though most requests can be processed via your associated Google Play email.
+
+---
+
 ## Español
 
 ### Divulgación Destacada (Servicio de Accesibilidad)
@@ -95,3 +105,13 @@ Se requiere estrictamente que el Usuario supervise la Aplicación durante las ll
 
 **INDEMNIZACIÓN:**  
 Usted acepta indemnizar, defender y eximir de responsabilidad al Desarrollador de y contra todos y cada uno de los reclamos, daños, responsabilidades o pérdidas que surjan de su uso de la Aplicación. Esto incluye específicamente cualquier repercusión legal, médica o financiera que resulte de la interacción de la Aplicación con sistemas telefónicos de terceros.
+
+---
+
+### Solicitud de Eliminación de Datos
+**DERECHO DEL USUARIO A LA ELIMINACIÓN:** Aunque GMT IVR Assistant procesa los datos de las transcripciones de llamadas de forma efímera (eliminándolos automáticamente en 30 minutos), los usuarios mantienen el derecho de solicitar la eliminación de cualquier metadato o identificador asociado.
+
+Para solicitar la eliminación manual de cualquier dato asociado con su instalación:
+* **Correo electrónico:** [psatechnologies@aol.com](mailto:psatechnologies@aol.com)
+* **Asunto:** Delete Data
+* **Información:** Incluya su ID de instalación único si está disponible, aunque la mayoría de las solicitudes se pueden procesar a través de su correo electrónico asociado de Google Play.
