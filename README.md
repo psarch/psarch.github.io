@@ -1,5 +1,8 @@
 google-site-verification: google765642c879ad10f4.html
 
+
+## Support PSA Technologies - https://buymeacoffee.com/AutomatedPOS 
+
 # Legal & Accessibility Disclosures
 
 ---
